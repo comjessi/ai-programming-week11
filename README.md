@@ -59,3 +59,7 @@ python -m pytest -q --cov=load_scores --cov-report=term-missing test_load_scores
 ## 라이선스
 
 MIT License. 원본 배포 파일의 출처는 AI 협업 프로그래밍 11주차 실습 자료입니다.
+
+## 데이터 · 12주차 실습
+
+12주차 수업 배포 성적 CSV는 114행 5열이다. 빈 점수는 임의로 채운 값이 반별 통계에 반영되는 것을 피하기 위해 제외했다. 열 설명과 실행 방법은 [12주차 안내](week12/README.md)에 정리했다.
